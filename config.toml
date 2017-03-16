@@ -1,0 +1,33 @@
+baseurl = "https://blog.lastbackend.com/"
+title = "Last.Backend Blog"
+languageCode = "en-us"
+theme = "lastbackend"
+
+paginate = 5
+DisqusShortname = "lastbackend"
+Copyright = "All rights reserved - 2016"
+canonifyurls = true
+
+[params]
+  description = "App cloud hosting for developers"
+  cover = "img/cover.png"
+  author = "Last.Backend Team"
+  authorlocation = "Saint-Petersburg, Russia"
+  authorwebsite = "https://lastbackend.com"
+  bio= ""
+  logo = "img/logo.png"
+  googleAnalyticsUserID = "UA-50023825-7"
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  RSSLink = "http://feeds.feedburner.com/lastbackend"
+  githubName = "lastbackend"
+  twitterName = "lastbackend"
+  facebookName = "lastbackend"
+  linkedinName = "lastbackend"
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
+  [params.social]
+    twitter = "lastbackend"
+
+[[menu.main]]
+  name = "Last.Backend"
+  url = "https://lastbackend.com"
