@@ -1,0 +1,17 @@
+name = "Last.Backend"
+license = "MIT"
+licenselink = "https://github.com/lastbackend/blog/blob/master/LICENSE.md"
+description = "Last.Backend blog theme"
+homepage = "https://lastbackend.com/"
+tags = ["blog"]
+features = ["disqus", "google analytics","share"]
+min_version=0.14
+
+[author]
+  name = "Last.Backend team"
+  homepage = "https://lastbackend.com"
+
+[original]
+  name = "Casper"
+  homepage = "https://github.com/TryGhost/Casper"
+  repo = "https://github.com/TryGhost/Casper"
